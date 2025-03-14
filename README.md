@@ -1,5 +1,5 @@
 # Todo App
-## This is a simple Todo Application that was built using React.js.It allows users to add,delete and update their tasks efficiently.It contains features such as, toggling between Light and Dark mode,categorization of tasks and a side toggle bar.
+### This is a simple Todo Application that was built using React.js.It allows users to add,delete and update their tasks efficiently.It contains features such as, toggling between Light and Dark mode,categorization of tasks and a side toggle bar.
 ### Features 
 1. Subtasks Management - It allows you to add multiple subtasks for each task.
 2. Task Status Management - It allows tasks to be categorized as 'Todo', 'Doing' and 'Done'.
